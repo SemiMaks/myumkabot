@@ -1,4 +1,0 @@
-config = {
-    'name': 'umkabot',
-    'token': '-------'
-}
